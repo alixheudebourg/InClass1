@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight_label">lb</string>
+    <string name="feet_label">feet</string>
+    <string name="inches_label">inches</string>
+
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+
+    <string name="weight_hint">Your weight in pounds</string>
+    <string name="feet_hint">feet</string>
+    <string name="inches_hint">inches</string>
+    <string name="click_promt">Click on Calculate BMI to get your BMI</string>
+    <string name="button_text">Calculate BMI</string>
+    <string name="app_title">Body Mass Index (BMI)</string>
+
+</resources>
